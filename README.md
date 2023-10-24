@@ -3,11 +3,11 @@
     <h1 align="center">Hi IM DAYLYWEST</h1>
 </div>
 
-<div align="left">
+<div align="center">
     <h3>Status 🧠:</h3>
     <div>
     <img src="https://img.shields.io/badge/im%20broken-black?label=%F0%9F%92%94&labelColor=A081AE" title="HTML5" alt="HTML" 
-    width="40" height="40"/>&nbsp;
+    width="100"/>&nbsp;
 
 
 ### 👨‍💻 About Me :
