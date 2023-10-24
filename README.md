@@ -1,17 +1,15 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm Carlos</h1>
-    <h3 align="center">A passionate fullstack web developer from México. I like Laravel.</h3>
+    <h1 align="center">Hi IM DAYLYWEST</h1>
+    <h3 align="center">.....</h3>
 </div>
----
+
 
 ### 👨‍💻 About Me :
 
-- 📝 I work as a full stack web developer
+- 📝 Im Content Creator
 
-- 📫 How to reach me **carlos.develops@gmail.com**
-
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning ** DISCRD JS **
 
 
 <div align="left">
@@ -31,13 +29,3 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
-
----
-
-### 📊 My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
