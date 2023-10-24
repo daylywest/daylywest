@@ -2,7 +2,6 @@
     <img src="https://media.giphy.com/media/knppRRnG8joUE/giphy.gif" width="200" />
     <h1 align="center">Hi IM DAYLYWEST</h1>
     <h3>Status 🧠:</h3>
-    <div>
     <img src="https://img.shields.io/badge/im%20broken-black?label=%F0%9F%92%94&labelColor=A081AE" title="HTML5" alt="HTML" 
     width="100"/>&nbsp;
     </div>
