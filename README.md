@@ -4,6 +4,7 @@
     <h3 align="center">.....</h3>
 </div>
 
+![Static Badge](https://img.shields.io/badge/a)
 
 ### 👨‍💻 About Me :
 
