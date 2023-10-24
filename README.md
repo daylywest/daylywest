@@ -4,7 +4,7 @@
     <h3 align="center">.....</h3>
 </div>
 
-![Static Badge](https://img.shields.io/badge/a)
+<img alt="Static Badge" src="https://img.shields.io/badge/a">
 
 ### 👨‍💻 About Me :
 
