@@ -21,11 +21,9 @@
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="discordjs" alt="djs" 
-       width="40" height="40"/>&nbsp;
-    </div>
-    <div>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="js" 
-       width="40" height="40"/>&nbsp;
-    </div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ </div>
 </div>
+
+    
