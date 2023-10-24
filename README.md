@@ -4,8 +4,6 @@
     <h3 align="center">.....</h3>
 </div>
 
-https://img.shields.io/badge/any_text-you_like-blue
-
 <div id="footer" align="center">
     <img src="https://img.shields.io/badge/any_text-you_like-blue" width="200" />
     <h1 align="center">.....</h1>
