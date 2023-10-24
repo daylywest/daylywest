@@ -1,12 +1,10 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hi IM DAYLYWEST</h1>
-    <h3 align="center">.....</h3>
 </div>
 
 <div id="footer" align="center">
     <img src="https://img.shields.io/badge/any_text-you_like-blue" width="200" />
-    <h1 align="center">.....</h1>
 </div>
 
 ### 👨‍💻 About Me :
