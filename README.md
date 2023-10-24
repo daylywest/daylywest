@@ -8,7 +8,8 @@
     <div>
     <img src="https://img.shields.io/badge/im%20broken-black?label=%F0%9F%92%94&labelColor=A081AE" title="HTML5" alt="HTML" 
     width="100"/>&nbsp;
-
+    </div>
+</div>
 
 ### 👨‍💻 About Me :
 
