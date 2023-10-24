@@ -4,14 +4,14 @@
 </div>
 
 <div id="footer" align="center">
-    <img src="https://img.shields.io/badge/im%20broken-black?label=%F0%9F%92%94&labelColor=A081AE" width="200" />
+    <img src="https://img.shields.io/badge/im%20broken-black?label=%F0%9F%92%94&labelColor=A081AE" width="10" />
 </div>
 
 ### 👨‍💻 About Me :
 
 - 📝 Im Content Creator
 
-- 🌱 I’m currently learning ** DISCRD JS **
+- 🌱 I’m currently learning **DISCRD JS**
 
 
 <div align="left">
